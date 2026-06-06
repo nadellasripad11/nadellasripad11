@@ -22,6 +22,7 @@ Infra        Vercel · Firebase · GitHub Actions
 
 | Project | Description | Stack |
 |---|---|---|
+| [penny-scout](https://github.com/nadellasripad11/penny-scout) | Automated NASDAQ screener — scans every stock hourly, scores on 10 signals, emails a daily AI digest | Next.js · GitHub Actions · Groq · Firebase |
 | [socle-lead-engine](https://github.com/nadellasripad11/socle-lead-engine) | AI lead gen platform for luxury hotels — scrapes prospects, scores them 1-100, drafts personalized outreach | Next.js · Supabase · Claude API |
 | [FanZone](https://github.com/nadellasripad11/FanZone) | Real-time World Cup fan platform — live reactions, penalty shootouts, WebRTC multiplayer | Firebase · WebRTC · Vanilla JS |
 
