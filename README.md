@@ -7,7 +7,7 @@
 <br/>
 
 ![CS Student](https://img.shields.io/badge/Computer%20Science-Student-7C3AED?style=flat-square&logo=academia&logoColor=white)
-![Class of 2028](https://img.shields.io/badge/Class%20of-2028-5B21B6?style=flat-square&logo=graduation-cap&logoColor=white)
+![Class of 2028](https://img.shields.io/badge/Class%20of-2029-5B21B6?style=flat-square&logo=graduation-cap&logoColor=white)
 ![United States](https://img.shields.io/badge/United%20States-4C1D95?style=flat-square&logo=google-maps&logoColor=white)
 
 <br/>
