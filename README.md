@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://sripadnadella.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripad-nadella)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sripad.nadella@gmail.com)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadellasripad11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadellasripad11)
 
 <br/>
@@ -444,7 +444,7 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/sripad.nadella@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sripad.nadella@gmail.com)
+[![Gmail](https://img.shields.io/badge/nadellasripad11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadellasripad11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/sripad--nadella-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripad-nadella)
 [![GitHub](https://img.shields.io/badge/nadellasripad11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadellasripad11)
 [![Portfolio](https://img.shields.io/badge/sripadnadella.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://sripadnadella.com)
